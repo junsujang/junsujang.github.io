@@ -1,6 +1,6 @@
 ---
 title: "eDNA Sampler"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/edna.png'>"
+excerpt: "<img src='/images/edna.png'><br/>Low-cost and modular environmental DNA (eDNA) sampler that is readily deployable"
 collection: projects
 ---
 

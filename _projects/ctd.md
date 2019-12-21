@@ -1,6 +1,6 @@
 ---
 title: "Audacious CTD"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ctd.png'>"
+excerpt: "<img src='/images/ctd.png'><br/>Low-cost CTD that measures conductivity, temperature and depth"
 collection: projects
 ---
 

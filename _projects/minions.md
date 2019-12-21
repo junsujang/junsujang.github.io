@@ -1,6 +1,6 @@
 ---
 title: "Minions"
-excerpt: "a massively-deplorable Lagrangian float for exploring the biological carbon pump<br/><img src='/images/minions.png'>"
+excerpt: "<img src='/images/minions.png'><br/>A massively-deplorable Lagrangian float for exploring the biological carbon pump"
 collection: projects
 ---
 
