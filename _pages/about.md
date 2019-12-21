@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Diving at a cenote in Cancun](/images/field-pic.png)
+![Diving at a cenote in Cancun](/images/field-pic.png) {.center}
 
 I am a second year Master's student at the MIT Media Lab. I research underwater 
 sensors at the [Future Ocean Lab](http://futureocean.mit.edu/) and 
@@ -23,3 +22,4 @@ My research interests lie in mass-deployable networks of underwater sensors that
 to collect ocean data with appropriate spatiotemporal resolution. I am also broadly
 interested in autonomous ocean monitoring and exploring systems via sensors, floats and 
 autonomous underwater vehicles (AUVs).
+
