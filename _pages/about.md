@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Diving at a cenote in Cancun](/images/field-pic.png)
+
 I am a second year Master's student at the MIT Media Lab. I research underwater 
 sensors at the [Future Ocean Lab](http://futureocean.mit.edu/) and 
 [Responsive Environmnents](https://resenv.media.mit.edu/). I am co-advised by
