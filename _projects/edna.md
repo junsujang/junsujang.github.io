@@ -4,4 +4,8 @@ excerpt: "<img src='/images/edna.png'><br/>Low-cost and modular environmental DN
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![edna](/images/edna.png)
+
+We aim to build low-cost and modular eDNA sampler that could be atop anything that touches water.
+
+Team: Junsu Jang, Charlene Xia
