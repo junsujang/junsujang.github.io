@@ -20,6 +20,6 @@ side projects, I have been working on modular
 
 My research interests lie in mass-deployable networks of underwater sensors that enable us
 to collect ocean data with appropriate spatiotemporal resolution. I am also broadly
-interested in autonomous ocean monitoring and exploring systems via sensors, floats and 
+interested in autonomous ocean monitoring and exploring systems via underwater sensors and 
 autonomous underwater vehicles (AUVs).
 
